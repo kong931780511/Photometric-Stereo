@@ -36,5 +36,5 @@ Its mathmatical principle can be easily found on Internet. This assignment is go
 * Run the main function in `pp.cpp`
 * Enter the number of images you use
 * Enter the object's name ('apple','elephant'or'pear)
-* Wait for the reslut
+* Wait for the reslut<br>
   If you still have questions, please feel free to contact me. `kongosu325@outlook.com`
