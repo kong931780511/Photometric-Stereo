@@ -1,2 +1,4 @@
 # Photometric-Stereo
-Photometric stereo is a technique to recover local surface orientations
+## Assignment Generalization
+Its mathmatical principle can be easily found on Internet. This assignment is going to use the data provided in the "data" fold and reconstruct the normal serface<br>
+## result
