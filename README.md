@@ -24,9 +24,7 @@ Its mathmatical principle can be easily found on Internet. This assignment is go
 ![](https://github.com/kong931780511/Photometric-Stereo/raw/master/data/apple_albedo.png) 
 ![](https://github.com/kong931780511/Photometric-Stereo/raw/master/data/apple_render.png) 
 ### elephant
-![](https://github.com/kong931780511/Photometric-Stereo/raw/master/data/elephant_rgb.png) 
-![](https://github.com/kong931780511/Photometric-Stereo/raw/master/data/elephant_albedo.png) 
-![](https://github.com/kong931780511/Photometric-Stereo/raw/master/data/elephant_render.png) 
+<img src="https://github.com/kong931780511/Photometric-Stereo/raw/master/data/elephant_rgb.png" width="30%" height="30%"><img src="https://github.com/kong931780511/Photometric-Stereo/raw/master/data/elephant_albedo.png" width="30%" height="30%"><img src="https://github.com/kong931780511/Photometric-Stereo/raw/master/data/elephant_render.png" width="30%" height="30%">
 ### pear
 ![](https://github.com/kong931780511/Photometric-Stereo/raw/master/data/pear_rgb.png) 
 ![](https://github.com/kong931780511/Photometric-Stereo/raw/master/data/pear_albedo.png) 
