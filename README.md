@@ -3,6 +3,7 @@ Photometric stereo is a technique to recover local surface orientations
 ## Assignment Generalization
 Its mathmatical principle can be easily found on Internet. This assignment is going to use multiple images of an object captured under different directional illuminations and the same viewpoint to calibrate the illumination direction, estimate the surface normal direction at every pixel.<br>
 ## Calculating Process
+* Using class `PFMAcess` provided by Dr. Qin to read the data in form of PBM
 * Read 21 images and transfer their data to Mat format (function `Readstring` & function `Transfer`)<br>
 * Recorded every pixel value and formed their RGB value as Intensity matrix (function `Calpix`)<br>
 * Calculated light intensity of ever image through the brightest point on the Lambertian sphere and take its albedo as 1 (function `CalLam`)<br>
@@ -29,3 +30,8 @@ Its mathmatical principle can be easily found on Internet. This assignment is go
 ![](https://github.com/kong931780511/Photometric-Stereo/raw/master/data/pear_rgb.png) 
 ![](https://github.com/kong931780511/Photometric-Stereo/raw/master/data/pear_albedo.png) 
 ![](https://github.com/kong931780511/Photometric-Stereo/raw/master/data/pear_render.png) 
+# How to use
+* Run the main function in `pp.cpp`
+* Enter the number of images you use
+* Enter the object's name ('apple','elephant'or'pear)
+* Wait for the reslut
