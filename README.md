@@ -31,6 +31,8 @@ Its mathmatical principle can be easily found on Internet. This assignment is go
 ![](https://github.com/kong931780511/Photometric-Stereo/raw/master/data/pear_albedo.png) 
 ![](https://github.com/kong931780511/Photometric-Stereo/raw/master/data/pear_render.png) 
 # How to use
+* Be sure to install OpenCV on your computer
+* main class is included in `PreCal.h` and `PreCal.cpp`
 * Run the main function in `pp.cpp`
 * Enter the number of images you use
 * Enter the object's name ('apple','elephant'or'pear)
